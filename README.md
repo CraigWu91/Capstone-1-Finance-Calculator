@@ -1,4 +1,4 @@
-# Capstone-Finance-Calculator
+# Capstone 1 - Finance-Calculator
 Calculate return on investment and repayment
 
 This program allows the user to select 2 options:
