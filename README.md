@@ -11,6 +11,7 @@ This program is a python file, open with any IDE and have Python installed
 
 ## User Guide
 This program does not use a loop, once program is finished you need to run the program again to make another calculation.
+
 Type "investment"
 * Input the deposit amount
 * Input the interest rate, just the float amount without percentage. eg 10.25
